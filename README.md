@@ -50,9 +50,13 @@ Mon objectif : transformer des données complexes en analyses utiles, solutions 
 - Créer des API avec FastAPI
 - Traduire un besoin opérationnel en solution Data exploitable
 
-## Projet mis en avant
+## Projets mis en avant
 
-### [Kiddo](https://github.com/EddysonV/Kiddo)
+### 🌿 [GreenThumb — Recommandation e-commerce](https://github.com/EddysonV/GreenThumb)
+
+Système intelligent de recommandation de plantes conçu dans le cadre du Bootcamp Data Analytics du Wagon : préparation des données, Machine Learning et API FastAPI.
+
+### 💡 [Kiddo](https://github.com/EddysonV/Kiddo)
 
 Projet public illustrant ma pratique du développement et ma progression dans l’écosystème Data/IA.
 
