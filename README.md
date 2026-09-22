@@ -7,8 +7,8 @@
 📍 Nantes, France · 🎓 Mastère Data & Intelligence Artificielle  
 🔎 À la recherche d’une alternance Data / IA de 24 mois
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eddyson%20Volcimé-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.[linkedin.com/in/eddyson-volcime](https://www.linkedin.com/in/eddyson-volcim%C3%A9/))
-![Profile views](https://komarev.com/ghpvc/?username=EddysonV&style=for-the-badge&color=2563eb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eddyson%20Volcimé-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddyson-volcime/)
+[![Profile views](https://komarev.com/ghpvc/?username=EddysonV&style=for-the-badge&color=2563eb)](https://github.com/EddysonV)
 
 </div>
 
